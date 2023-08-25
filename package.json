@@ -1,0 +1,25 @@
+{
+  "name": "kronoos",
+  "version": "1.0.0",
+  "description": "Teste Kronoos",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demithehomie/kronoos-test.git"
+  },
+  "keywords": [
+    "Kronoos"
+  ],
+  "author": "Demetrius Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demithehomie/kronoos-test/issues"
+  },
+  "homepage": "https://github.com/demithehomie/kronoos-test#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
